@@ -1,5 +1,6 @@
 {
   "name": "lzd/contract",
+  "version": "master",
   "description": "test",
   "minimum-stability": "dev",
   "license": "proprietary",
@@ -11,5 +12,10 @@
   ],
   "require": {
     "doctrine/dbal": "2.3.5"
+  },
+  "dist": {
+    "url": "git@bitbucket.org:quannqlzd/tps_contract.git",
+    "type": "git"
   }
+
 }
