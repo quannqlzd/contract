@@ -1,0 +1,15 @@
+{
+  "name": "lzd/contract",
+  "description": "test",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Quan Nguyen",
+      "email": "quan.nguyen.quoc@lazada.vn"
+    }
+  ],
+  "require": {
+    "doctrine/dbal": "2.3.5"
+  }
+}
